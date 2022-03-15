@@ -15,7 +15,8 @@
 ---
 
 ### Briefly About Myself
-Have several completed tasks on freelance. Work every day to improve my frontend skills. 
+Have several completed tasks on freelance.
+Work every day to improve my frontend skills.
 
 ---
 
@@ -24,6 +25,7 @@ Have several completed tasks on freelance. Work every day to improve my frontend
 - **Photographer Site:** [Portfolio](https://rolling-scopes-school.github.io/1norway-JSFEPRESCHOOL/portfolio/)
 - **Movie Searcher:** [MovieApp](https://rolling-scopes-school.github.io/1norway-JSFEPRESCHOOL/movie-app/)
 - **Memory Game:** [Cards](https://rolling-scopes-school.github.io/1norway-JSFEPRESCHOOL/memory-game/)
+
 ---
 
 ### Proficiency and Skills
@@ -36,7 +38,6 @@ Have several completed tasks on freelance. Work every day to improve my frontend
 ---
 
 ### Education
-
 
 1.W3Schools HTML/CSS/JS
 
